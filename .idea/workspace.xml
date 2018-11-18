@@ -2,7 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b6ceda4-42fe-41a4-beae-97fa112762b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/accepts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/accepts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/after/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/after/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-flatten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/array-flatten/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/arraybuffer.slice/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/arraybuffer.slice/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/async-limiter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/async-limiter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/backo2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/backo2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/base64-arraybuffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/base64-arraybuffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/base64id/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/base64id/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/better-assert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/better-assert/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/blob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/blob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/body-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/callsite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/callsite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/component-bind/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/component-bind/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/component-emitter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/component-inherit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/component-inherit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-disposition/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/content-disposition/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/content-type/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/content-type/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookie-signature/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cookie-signature/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cookie/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/depd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/depd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/destroy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/destroy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ee-first/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ee-first/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/encodeurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/encodeurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/engine.io-client/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/engine.io-client/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/engine.io-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/engine.io-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/engine.io-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/engine.io-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/engine.io/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/engine.io/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/engine.io/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/engine.io/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-html/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/escape-html/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/etag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/etag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/finalhandler/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/forwarded/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/forwarded/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fresh/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-binary2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-binary2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-cors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-cors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/http-errors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/indexof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/indexof/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ipaddr.js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/isarray/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lokijs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lokijs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/media-typer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/media-typer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/merge-descriptors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/methods/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/negotiator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/negotiator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-component/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/object-component/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/on-finished/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/on-finished/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parseqs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/parseqs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parseuri/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/parseuri/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parseurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/parseurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/path-to-regexp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/proxy-addr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/proxy-addr/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/range-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/range-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/raw-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/send/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/send/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/serve-static/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/setprototypeof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/setprototypeof/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io-adapter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/socket.io-adapter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io-client/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/socket.io-client/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/socket.io-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io-parser/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/socket.io-parser/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/socket.io-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/socket.io/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/socket.io/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/statuses/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/statuses/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/to-array/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/to-array/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/type-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/type-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ultron/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ultron/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/unpipe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/unpipe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/utils-merge/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/utils-merge/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vary/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vary/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ws/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ws/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/xmlhttprequest-ssl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/xmlhttprequest-ssl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yeast/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yeast/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,12 +145,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="86" />
+          <entry key="json" value="3" />
+          <entry key="md" value="95" />
+          <entry key="www" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="86" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="7" />
+          <entry key="Markdown" value="95" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="www" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -93,8 +194,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -103,8 +204,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,10 +213,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="210">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -136,8 +246,9 @@
       <list>
         <option value="$PROJECT_DIR$/modules/messages.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/main.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/bin/www" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -172,13 +283,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="socket.io-redis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket.io-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="socket.io-lokijs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="socket.io-lokijs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="socket.io-redis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket.io-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="socket.io-lokijs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="socket.io-lokijs" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="socket.io-lokijs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="socket.io-lokijs" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,12 +340,12 @@
       <updated>1542545950063</updated>
       <workItem from="1542545951197" duration="5567000" />
       <workItem from="1542551975792" duration="554000" />
-      <workItem from="1542552635519" duration="192000" />
+      <workItem from="1542552635519" duration="877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6313000" />
+    <option name="totallyTimeSpent" value="6998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="988" extended-state="6" />
@@ -264,13 +380,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/routes/index.js" />
     <entry file="file://$PROJECT_DIR$/index.js" />
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -292,17 +401,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="300">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
@@ -314,8 +430,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
