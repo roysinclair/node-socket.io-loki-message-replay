@@ -237,13 +237,42 @@ $(function () {
 
     // Whenever the server emits 'new message', update the chat body
     socket.on('new message', function (data) {
-        console.log(data);
+
         // 1 less than or equal to null
         if (data.number <= messageNumber) {
             return false;
         }
         messageNumber = data.number;
         addChatMessage(data);
+    });
+
+    socket.on('replayMessages', function (data) {
+
+        let dataObj = data.messageData;
+
+        // Order array by number from lowest to highest
+        dataObj.sort(function(a, b) {
+            return a.$loki - b.$loki;
+        });
+
+        dataObj.forEach(function (messageResults) {
+
+            let payload = {
+                username: messageResults['username'],
+                message: messageResults['message'],
+                number: messageResults['$loki']
+            };
+
+            // 1 less than or equal to null
+            if (messageResults['$loki'] <= messageNumber) {
+                return false;
+            }
+
+            messageNumber = messageResults['$loki'];
+            addChatMessage(payload);
+
+        });
+
     });
 
     // Whenever the server emits 'user joined', log it in the chat body

@@ -100,10 +100,15 @@ io.on('connection', function (socket) {
     setInterval(() => {
 
         // Clean expired messages
-        messages.cleanMessages();
+        //messages.cleanMessages();
 
         // Fetch messages and send to all users
         let messageResults = messages.replayMessages();
+        console.log(messageResults);
+        socket.emit('replayMessages', {
+            messageData : messageResults
+        });
+        /*
         messageResults.forEach(function (data) {
             socket.emit(data['type'], {
                 username: data['username'],
@@ -111,6 +116,7 @@ io.on('connection', function (socket) {
                 number: data['$loki']
             });
         });
+        */
     }, 1500);
 
 });
