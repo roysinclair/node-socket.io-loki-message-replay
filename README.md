@@ -12,7 +12,7 @@ $ npm install
 $ npm start
 ```
 ```
-Set expirationTime for long you wish to keep messages for
+Set expirationTime gives you the ability to clean out old messages after X time
 ```
 
 ## Features
