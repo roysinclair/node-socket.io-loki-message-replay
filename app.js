@@ -20,6 +20,9 @@ app.head('/health', function (req, res) {
     res.sendStatus(200);
 });
 
+// Set message expiration time
+const expirationTime = (1800 * 1000); // (1800 seconds * 1000) = 30 Minutes
+
 // Chatroom
 let numUsers = 0;
 io.on('connection', function (socket) {
@@ -32,7 +35,8 @@ io.on('connection', function (socket) {
         let payload = {
             type : 'new message',
             username: socket.username,
-            message: data
+            message: data,
+            expiration : Date.now() + expirationTime
         };
         // Save message to loki database
         messages.addMessage(payload,messageCB);
@@ -94,6 +98,11 @@ io.on('connection', function (socket) {
 
     // Send data every 1 1/2 seconds
     setInterval(() => {
+
+        // Clean expired messages
+        messages.cleanMessages();
+
+        // Fetch messages and send to all users
         let messageResults = messages.replayMessages();
         messageResults.forEach(function (data) {
             socket.emit(data['type'], {

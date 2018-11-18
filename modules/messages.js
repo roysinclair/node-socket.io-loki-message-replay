@@ -22,6 +22,7 @@ const Messages = {
 
     // Add message to the database
     addMessage: function (message,messageCB) {
+
         // Insert payload data into the database table
         SOCKET_DB.insert(message);
 
@@ -34,6 +35,11 @@ const Messages = {
         return SOCKET_DB.data;
     },
 
-   
+    // Clean old messages that have expired based on the time
+    cleanMessages: function () {
+        SOCKET_DB.chain()
+            .find({expiration: {$lt: Date.now()}})
+            .remove();
+    },
 };
 module.exports = Messages;
