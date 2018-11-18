@@ -1,0 +1,17 @@
+{
+  "name": "lokijs-socket.io",
+  "version": "0.0.0",
+  "description": "Combine redis and socket.io with loki.js and test sending data in invervals",
+  "main": "app.js",
+  "author": "Roy Sinclair",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1",
+    "lokijs": "^1.5.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
