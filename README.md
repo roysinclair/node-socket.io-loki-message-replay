@@ -11,7 +11,9 @@ $ cd socket.io-lokijs
 $ npm install
 $ npm start
 ```
-
+```
+Set expirationTime for long you wish to keep messages for
+```
 
 ## Features
 
@@ -22,6 +24,7 @@ on website load.
 the chatroom.
 - If a user disconnects and other users send messages when the user reconnects they will be caught up with the outstanding messages
 - When a user joins a room they will be caught up with all the messages sent in the chat 
+- Message expiration time so that the LokiJS database can clean old messages and not run out of memory
 
 ## Credits
 Socket.io examples - https://github.com/socketio/socket.io/tree/master/examples/chat
