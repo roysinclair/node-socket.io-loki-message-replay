@@ -9,7 +9,7 @@ All unseen messages are caught up.
 ```
 $ cd socket.io-lokijs
 $ npm install
-$ node app.js
+$ npm start
 ```
 
 
