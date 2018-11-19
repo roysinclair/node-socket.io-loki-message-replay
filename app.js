@@ -100,7 +100,7 @@ io.on('connection', function (socket) {
     setInterval(() => {
 
         // Clean expired messages
-        //messages.cleanMessages();
+        messages.cleanMessages();
 
         // Fetch messages and send to all users
         let messageResults = messages.replayMessages();
@@ -108,15 +108,7 @@ io.on('connection', function (socket) {
         socket.emit('replayMessages', {
             messageData : messageResults
         });
-        /*
-        messageResults.forEach(function (data) {
-            socket.emit(data['type'], {
-                username: data['username'],
-                message: data['message'],
-                number: data['$loki']
-            });
-        });
-        */
+
     }, 1500);
 
 });
